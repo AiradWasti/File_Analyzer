@@ -17,7 +17,7 @@ This Bash script is designed to analyze log files by providing three main functi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Sample output: Counting occurrences of a specified log level : <br/>
+Sample output: Summarizing the log file: <br/>
 <img src="https://imgur.com/i1QX2La.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -25,5 +25,5 @@ Sample output: Extracting log entries matching a specified pattern:  <br/>
 <img src="https://imgur.com/ceNK5oR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sample output: Summarizing the log file:  <br/>
+Sample output: Counting occurrences of a specified log level: <br/>
 <img src="https://imgur.com/93CBW2p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
